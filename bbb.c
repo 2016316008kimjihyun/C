@@ -10,7 +10,7 @@ int main()
 	y=200;
 
 	sum=x+y;
-	printf("두 수의 합:%d\n",sum);
+	printf("sum:%d\n",sum);
 
 	return 0;
 }
